@@ -145,15 +145,16 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefit-lead h2 {
     margin-bottom: 5px;
     text-align: center;
 }
 
 .benefit-lead img {
     display: block;
-    align-items: baseline;
     max-width: 150px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .benefit-brand {
@@ -161,7 +162,7 @@ p {
     color: #ffffff;
 }
 
-.benefit-brand h3 {
+.benefit-brand h2 {
     margin-bottom: 5px;
     text-align: center;
 }
@@ -169,6 +170,8 @@ p {
 .benefit-brand img {
     display: block;
     max-width: 150px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .benefit-cost {
@@ -176,7 +179,7 @@ p {
     color: #ffffff;
 }
 
-.benefit-cost h3 {
+.benefit-cost h2 {
     margin-bottom: 5px;
     text-align: center;
 }
@@ -184,6 +187,8 @@ p {
 .benefit-cost img {
     display: block;
     max-width: 150px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .footer {
