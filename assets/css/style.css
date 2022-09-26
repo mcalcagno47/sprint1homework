@@ -21,7 +21,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #74eba5;
+    color: #ebb96f;
 }
 
 .header div {
@@ -83,7 +83,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #0072bb;
 }
 
 .search-engine-optimization {
@@ -97,7 +97,7 @@ p {
 
 .search-engine-optimization img {
     max-height: 200px;
-    margin-right: 50px;
+    margin-right: 25px;
 }
 
 .search-engine-optimization h2 {
@@ -116,7 +116,7 @@ p {
 
 .online-reputation-management img {
     max-height: 200px;
-    margin-left: 50px;
+    margin-left: 25px;
 }
 
 .online-reputation-management h2 {
@@ -135,7 +135,7 @@ p {
 
 .social-media-marketing img {
     max-height: 200px;
-    margin-right: 50px;
+    margin-right: 25px;
 }
 
 .social-media-marketing h2 {
