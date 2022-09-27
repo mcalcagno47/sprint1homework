@@ -43,7 +43,11 @@ body {
 
 a {
     color: #ffffff;
-    text-decoration: none;
+    text-decoration: none
+}
+
+a:hover {
+    color: #ebb96f;
 }
 
 p {
@@ -94,7 +98,7 @@ p {
     font-size: 36px;
 }
 
-.benefits {
+benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
