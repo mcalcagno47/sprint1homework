@@ -14,7 +14,6 @@ Visuals
 ![screenshot](screenshot1.png)
 ![screenshot](screenshot2.png)
 
-
 Usage
 The purpose of this site is to encourage customers to use Enviseon to help improve their site's searchability.
 
