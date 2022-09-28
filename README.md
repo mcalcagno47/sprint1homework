@@ -7,14 +7,15 @@ Sprint 1 Homework: Cleaning up HTML an CSS code to make it more accessible and c
 Description
 Starting from a provided document, I was instructed to change the HTML and CSS code to add accessibility features and leave it more efficient than when I entered.  I accomplished this by changing the <div> sections to be more specific, changed the class of the text elements to reduce CSS clutter, and added accessiblity features by allowing each element to be tabbed to using a keyboard.  I also ensured contrast was maintained, and added alt tags to images in case of low bandwith.
 
-Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+Site: https://mcalcagno47.github.io/sprint1homework/
+Github: https://github.com/mcalcagno47/sprint1homework 
 
 Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+![screenshot](screenshot.pdf)
+
 
 Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+The purpose of this site is to encourage customers to use Enviseon to help improve their site's searchability.
 
 Support
 Should the page not behave properly, please email me at mcalcagn@gmail.com.
