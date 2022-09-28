@@ -11,7 +11,8 @@ Site: https://mcalcagno47.github.io/sprint1homework/
 Github: https://github.com/mcalcagno47/sprint1homework 
 
 Visuals
-![screenshot](screenshot.pdf)
+![screenshot](screenshot1.png)
+![screenshot](screenshot2.png)
 
 
 Usage
