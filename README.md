@@ -11,8 +11,7 @@ Site: https://mcalcagno47.github.io/sprint1homework/
 Github: https://github.com/mcalcagno47/sprint1homework 
 
 Visuals
-![screenshot](screenshot1.png)
-![screenshot](screenshot2.png)
+
 
 Usage
 The purpose of this site is to encourage customers to use Enviseon to help improve their site's searchability.
